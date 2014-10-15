@@ -9,6 +9,7 @@
   "author": "alevicki",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.9.7"
+    "express": "^4.9.7",
+    "sugar": "^1.4.1"
   }
 }
